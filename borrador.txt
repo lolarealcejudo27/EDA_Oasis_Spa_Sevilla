@@ -1,0 +1,30 @@
+Y esto como reflexión por si nos ayuda jajajajaj: Nos gustaría profundizar en el perfil de consumo para optimizar la estrategia. ¿Podríamos identificar la procedencia geográfica de nuestros clientes más frecuentes y analizar la estacionalidad de las ventas? Asimismo, sería de gran utilidad conocer el producto estrella mensual y determinar si nuestra tasa de recurrencia se inclina hacia la repetición del servicio o hacia el descubrimiento de nuevas experiencias.
+
+
+1.	VENTAS
+- ¿Cuál es la distribución geográfica de nuestro segmento de clientes con mayor frecuencia de compra?
+- ¿Qué meses presentan una mayor estacionalidad positiva en el volumen de ventas?
+
+COLUMNAS (Agrupadas por ‘Producto’ y ‘Mes de pago’):
+-Fecha y hora de la creación de la venta
+-Tipo de pago
+-Código postal
+-Cargo gestión
+-Neto
+-ID de la reserva 
+- ¿Reprogramado?
+-País del teléfono del cliente
+-Email
+
+
+2.	PRODUCTOS 
+-	¿Cuál es el top-of-mind o el producto líder en captación de reservas desglosado por mensualidad?
+-	¿Cuál es nuestra tasa de retención y qué patrones de comportamiento observamos en el cross-selling (probar algo nuevo) frente a la compra repetida?
+
+COLUMNAS (Agrupadas por ‘Mes de la disponibilidad’ y ‘Producto’):
+-ID de la reserva
+- ¿Reprogramado?
+- Email
+- Número de pax
+- Cargos de gestión
+- Total a recibir
