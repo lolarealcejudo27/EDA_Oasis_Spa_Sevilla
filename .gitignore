@@ -206,3 +206,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Datos brutos con PII — nunca versionar
+# Los CSV originales contienen emails y códigos postales reales.
+# Si en algún momento se versiona un dataset anonimizado, añadirlo con
+# `git add -f src/data/<archivo>.csv` o usar una exclusión específica.
+src/data/*.csv
+src/data/*.xlsx
+src/data/*.parquet
