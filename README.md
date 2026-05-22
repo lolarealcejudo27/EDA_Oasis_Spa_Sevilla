@@ -141,10 +141,10 @@ La anonimización se aplica **in-memory al inicio de cada notebook** mediante `s
 
 ## Autores
 
-| Nombre | GitHub | LinkedIn |
+| Nombre | GitHub |
 |---|---|---|
-| Miguel Coxon Fernández | [@MCCFern](https://github.com/MCCFern) | *pendiente* |
-| Lola Real Cejudo | [@lolarealcejudo27](https://github.com/lolarealcejudo27) | *pendiente* |
+| Miguel Coxon Fernández | [@MCCFern](https://github.com/MCCFern)|
+| Lola Real Cejudo | [@lolarealcejudo27](https://github.com/lolarealcejudo27)|
 
 ---
 
