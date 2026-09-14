@@ -148,4 +148,12 @@ La anonimización se aplica **in-memory al inicio de cada notebook** mediante `s
 
 ---
 
+<img width="1199" height="689" alt="Captura de pantalla 2026-09-14 115741" src="https://github.com/user-attachments/assets/91ab85b0-7468-49fa-b17d-cdfd89c066ad" />
+<img width="575" height="295" alt="2" src="https://github.com/user-attachments/assets/d0921379-e3eb-4421-9bcf-560f41e3087f" />
+<img width="664" height="311" alt="3" src="https://github.com/user-attachments/assets/432c6a36-8f5d-4bae-bd36-4e21c8a8eed8" />
+
+
+
+
+
 *Proyecto desarrollado en el marco del bootcamp Data Science Online de [The Bridge](https://www.thebridge.tech/) — Project Break I (EDA). Mayo de 2026.*
